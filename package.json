@@ -1,7 +1,7 @@
 {
   "name": "KAMRAN-MD",
   "version": "3.0.0",
-  "description": "A WhatsApp Bot Created By YOUR NAME",
+  "description": "A WhatsApp Bot Created By KAMRAN",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name KAMRAN-MD",
