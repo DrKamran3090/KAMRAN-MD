@@ -39,8 +39,8 @@
    
   1..DEPLOY ON HEROKU ⤵️
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fdrkamran3090%2KAMRAN-MD) 
-   
+<a href='https://dashboard.heroku.com/new?template=https://github.com/DrKamran3090/KAMRAN-MD' target="_blank"><img alt='HEROKU DEPLOY' src='https://img.shields.io/badge/-HEROKU DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/>
+ <br>
    
   2..DEPLOY ON RENDER ⤵️
 
