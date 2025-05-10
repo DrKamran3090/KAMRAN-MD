@@ -39,7 +39,7 @@
    
   1..DEPLOY ON HEROKU ⤵️
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FDrKamran3090%2KAMRAN-MD) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fdrkamran3090%2KAMRAN-MD) 
    
    
   2..DEPLOY ON RENDER ⤵️
