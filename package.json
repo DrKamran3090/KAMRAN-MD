@@ -1,11 +1,11 @@
 {
-  "name": "Kamran-MD",
+  "name": "KAMRAN-MD",
   "version": "3.0.0",
   "description": "A WhatsApp Bot Created By YOUR NAME",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name Kamran-MD",
-    "stop": "pm2 stop Kamran-MD",
+    "start": "pm2 start index.js --deep-monitoring --attach --name KAMRAN-MD",
+    "stop": "pm2 stop KAMRAN-MD",
     "restart": "pm2 restart Botne-MD"
   },
   "dependencies": {
