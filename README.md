@@ -28,20 +28,17 @@
     <img src="https://img.shields.io/badge/%F0%9F%9A%80%20GET%20PAIR%20CODE%20WEB-ffcc00?style=for-the-badge"/>
   </a>
 </p>
+1..DEPLOY ON HEROKU ⤵️
+  
+<a href='https://dashboard.heroku.com/new?template=https://github.com/DrKamran3090/KAMRAN-MD' target="_blank"><img alt='HEROKU DEPLOY' src='https://img.shields.io/badge/-HEROKU DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/>
+ <br>
+   
 <a><img src='https://files.catbox.moe/jmhpsm.jpg'/>
 
 
 <a><img src='https://files.catbox.moe/u7rvzv.jpg'/>
 
-2. **Obtain the Session ID**: After accessing the URL, you should see a session ID displayed. Copy this session ID.
-
-
-   
-  1..DEPLOY ON HEROKU ⤵️
-  
-<a href='https://dashboard.heroku.com/new?template=https://github.com/DrKamran3090/KAMRAN-MD' target="_blank"><img alt='HEROKU DEPLOY' src='https://img.shields.io/badge/-HEROKU DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/>
- <br>
-   
+2. **Obtain the Session ID**: After accessing the URL, you should see a session ID displayed. Copy this session ID
   2..DEPLOY ON RENDER ⤵️
 
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/DrKamran3090/KAMRAN-MD.git)
